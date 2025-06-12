@@ -3,38 +3,32 @@
     {
       "name": "CN Tower Cam - East View",
       "location": "Toronto, Canada",
-      "image_url": "URL_for_CN_Tower_Cam_Image",
-      "stream_url": "URL_for_CN_Tower_Cam_Stream"
+      "stream_url": "https://videos-3.earthcam.com/fecnetwork/9299.flv/playlist.m3u8?t=hJ8%2BG1g8bVb%2FczH06uGS69xV%2BZ6jqvsg%2B84ouFksQgkHSg7RrITXJJvueCrX0LDO&td=202506120905"
     },
     {
       "name": "Hotel Nes Cam",
       "location": "Amsterdam, Netherlands",
-      "image_url": "URL_for_Hotel_Nes_Cam_Image",
-      "stream_url": "URL_for_Hotel_Nes_Cam_Stream"
+      "stream_url": "https://videos-3.earthcam.com/fecnetwork/21250.flv/playlist.m3u8?t=7byvK0ql%2BefK%2Fu0U0I7LyfmtN1yWf2fA1JxukZiTku8ia69ofYAtx2v8JtSTSysy&td=202506120929"
     },
     {
       "name": "Cape Town Cam",
       "location": "Cape Town, South Africa",
-      "image_url": "URL_for_Cape_Town_Cam_Image",
-      "stream_url": "URL_for_Cape_Town_Cam_Stream"
+      "stream_url": "https://videos-3.earthcam.com/fecnetwork/24898.flv/playlist.m3u8?t=fuiXK%2Bgvagq05%2FykD1p%2BOS08aABJ44b3V2STEAJLbpzIwJBQOe9bXxCm5Q21bek%2F&td=202506120930"
     },
     {
       "name": "Reunion Tower Cam",
       "location": "Dallas, TX",
-      "image_url": "URL_for_Reunion_Tower_Cam_Image",
-      "stream_url": "URL_for_Reunion_Tower_Cam_Stream"
+      "stream_url": "https://videos-3.earthcam.com/fecnetwork/27172.flv/playlist.m3u8?t=1pOoLu4rUkReYqfPyoSRfM9kuxr3Mzs1fDIQ5GpbW4oZOir16gysb3Hl%2B57eZfjA&td=202506120906"
     },
     {
       "name": "Terminal Tower Cam",
       "location": "Cleveland, OH",
-      "image_url": "URL_for_Terminal_Tower_Cam_Image",
-      "stream_url": "URL_for_Terminal_Tower_Cam_Stream"
+      "stream_url": "https://videos-3.earthcam.com/fecnetwork/39722.flv/playlist.m3u8?t=TOYLYiK7vJw5a%2BCFux1fW2Ag7dxmzAvvo9l5AaEBhG7FzIoHITBWVTYqHZeW%2BAoL&td=202506120910"
     },
     {
       "name": "Skydeck Cam",
       "location": "Chicago, IL",
-      "image_url": "URL_for_Skydeck_Cam_Image",
-      "stream_url": "URL_for_Skydeck_Cam_Stream"
+      "stream_url": "https://videos-3.earthcam.com/fecnetwork/22820.flv/playlist.m3u8?t=dBtN5TW1T8fuVoEEKE7PQBgYDpfkwAKrcIirPYM3sbC7hPuiRFvUaZDk5KlCZm%2BW&td=202506120913"
     }
   ]
 }
