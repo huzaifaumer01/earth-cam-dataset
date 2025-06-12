@@ -1,3 +1,40 @@
 {
-  "camera_url": "https://videos-3.earthcam.com/fecnetwork/hdtimes10.flv/playlist.m3u8?t=vBci5OreTDT5OVZWlrH3hFWPpk6y83Y18ohQ4H190JNelog%2FXFTnkrZTftXHAGhsoO5lSWVk2B3WH4xl6X3gTQ%3D%3D&td=202506101040"
+  "cameras": [
+    {
+      "name": "CN Tower Cam - East View",
+      "location": "Toronto, Canada",
+      "image_url": "URL_for_CN_Tower_Cam_Image",
+      "stream_url": "URL_for_CN_Tower_Cam_Stream"
+    },
+    {
+      "name": "Hotel Nes Cam",
+      "location": "Amsterdam, Netherlands",
+      "image_url": "URL_for_Hotel_Nes_Cam_Image",
+      "stream_url": "URL_for_Hotel_Nes_Cam_Stream"
+    },
+    {
+      "name": "Cape Town Cam",
+      "location": "Cape Town, South Africa",
+      "image_url": "URL_for_Cape_Town_Cam_Image",
+      "stream_url": "URL_for_Cape_Town_Cam_Stream"
+    },
+    {
+      "name": "Reunion Tower Cam",
+      "location": "Dallas, TX",
+      "image_url": "URL_for_Reunion_Tower_Cam_Image",
+      "stream_url": "URL_for_Reunion_Tower_Cam_Stream"
+    },
+    {
+      "name": "Terminal Tower Cam",
+      "location": "Cleveland, OH",
+      "image_url": "URL_for_Terminal_Tower_Cam_Image",
+      "stream_url": "URL_for_Terminal_Tower_Cam_Stream"
+    },
+    {
+      "name": "Skydeck Cam",
+      "location": "Chicago, IL",
+      "image_url": "URL_for_Skydeck_Cam_Image",
+      "stream_url": "URL_for_Skydeck_Cam_Stream"
+    }
+  ]
 }
