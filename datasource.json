@@ -1,34 +1,366 @@
 {
-  "cameras": [
+  "sections": [
     {
-      "name": "CN Tower Cam - East View",
-      "location": "Toronto, Canada",
-      "stream_url": "https://videos-3.earthcam.com/fecnetwork/9299.flv/playlist.m3u8?t=hJ8%2BG1g8bVb%2FczH06uGS69xV%2BZ6jqvsg%2B84ouFksQgkHSg7RrITXJJvueCrX0LDO&td=202506120905"
+      "id": "01",
+      "title": "Spotlight",
+      "cameras": [
+        {
+          "id": "seaside-heights-cam",
+          "name": "Seaside Heights Cam - Amusemen...",
+          "location": "Seaside Heights, NJ",
+          "thumbnail": "seaside_heights_thumbnail.jpg",
+          "stream_url": "https://videos-3.earthcam.com/fecnetwork/15276.flv/playlist.m3u8?t=0d86GRpcsgFQ2CQ37usF8%2BB%2FbgkMLjVd0eGlBBRlnaYvBxR5gyH289Qr6Mp88jje&td=202506150607",
+          "category": "spotlight"
+        },
+        {
+          "id": "empire-cam",
+          "name": "Empire Cam",
+          "location": "New York City, NY",
+          "thumbnail": "empire_cam_thumbnail.jpg",
+          "stream_url": "https://videos-3.earthcam.com/fecnetwork/20489.flv/playlist.m3u8?t=osRbbBf3imjU4AsiPop2dF6U95ZerQNVB%2BYXxTkaG6cG8vJExaqTaSIx%2F%2FRO18DN&td=202506150608",
+          "category": "spotlight"
+        },
+        {
+          "id": "skydeck-cam-west",
+          "name": "Skydeck Cam - West View",
+          "location": "Chicago, IL",
+          "thumbnail": "skydeck_west_thumbnail.jpg",
+          "stream_url": "https://videos-3.earthcam.com/fecnetwork/42881.flv/playlist.m3u8?t=IF6K%2F2cHg2A6t%2BnMsxjFRDp0NVA%2F0ifw%2BPbHOuYNMac5O8mkIbn7AyqCNpVKBAZG&td=202506150608",
+          "category": "spotlight"
+        },
+        {
+          "id": "downtown-mystic-cam",
+          "name": "Downtown Mystic Cam",
+          "location": "Mystic, CT",
+          "thumbnail": "mystic_cam_thumbnail.jpg",
+          "stream_url": "https://videos-3.earthcam.com/fecnetwork/32669.flv/playlist.m3u8?t=UMlcXtARyEBPNL2f7j5QW%2FZUvfup493IIvKX0LPwwddxchOEYMdasX1%2B0gNga%2BN8&td=202506150609",
+          "category": "spotlight"
+        },
+        {
+          "id": "glen-cove-cam",
+          "name": "Glen Cove Cam",
+          "location": "Onset, MA",
+          "thumbnail": "glen_cove_thumbnail.jpg",
+          "stream_url": "https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/22357/2023/07/25/1301.mp4/playlist.m3u8",
+          "category": "spotlight"
+        }
+      ]
     },
     {
-      "name": "Hotel Nes Cam",
-      "location": "Amsterdam, Netherlands",
-      "stream_url": "https://videos-3.earthcam.com/fecnetwork/21250.flv/playlist.m3u8?t=7byvK0ql%2BefK%2Fu0U0I7LyfmtN1yWf2fA1JxukZiTku8ia69ofYAtx2v8JtSTSysy&td=202506120929"
+      "id": "02",
+      "title": "City Skylines",
+      "cameras": [
+        {
+          "id": "cn-tower-cam-east",
+          "name": "CN Tower Cam - East View",
+          "location": "Toronto, Canada",
+          "thumbnail": "cn_tower_east_thumbnail.jpg",
+          "stream_url": "https://videos-3.earthcam.com/fecnetwork/9299.flv/playlist.m3u8?t=hJ8%2BG1g8bVb%2FczH06uGS69xV%2BZ6jqvsg%2B84ouFksQgkHSg7RrITXJJvueCrX0LDO&td=202506120905",
+          "category": "city-skylines"
+        },
+        {
+          "id": "hotel-nes-cam",
+          "name": "Hotel Nes Cam",
+          "location": "Amsterdam, Netherlands",
+          "thumbnail": "hotel_nes_thumbnail.jpg",
+          "stream_url": "https://videos-3.earthcam.com/fecnetwork/21250.flv/playlist.m3u8?t=7byvK0ql%2BefK%2Fu0U0I7LyfmtN1yWf2fA1JxukZiTku8ia69ofYAtx2v8JtSTSysy&td=202506120929",
+          "category": "city-skylines"
+        },
+        {
+          "id": "cape-town-cam",
+          "name": "Cape Town Cam",
+          "location": "Cape Town, South Africa",
+          "thumbnail": "cape_town_thumbnail.jpg",
+          "stream_url": "https://videos-3.earthcam.com/fecnetwork/24898.flv/playlist.m3u8?t=fuiXK%2Bgvagq05%2FykD1p%2BOS08aABJ44b3V2STEAJLbpzIwJBQOe9bXxCm5Q21bek%2F&td=202506120930",
+          "category": "city-skylines"
+        },
+        {
+          "id": "reunion-tower-cam",
+          "name": "Reunion Tower Cam",
+          "location": "Dallas, TX",
+          "thumbnail": "reunion_tower_thumbnail.jpg",
+          "stream_url": "https://videos-3.earthcam.com/fecnetwork/27172.flv/playlist.m3u8?t=1pOoLu4rUkReYqfPyoSRfM9kuxr3Mzs1fDIQ5GpbW4oZOir16gysb3Hl%2B57eZfjA&td=202506120906",
+          "category": "city-skylines"
+        },
+        {
+          "id": "terminal-tower-cam",
+          "name": "Terminal Tower Cam",
+          "location": "Cleveland, OH",
+          "thumbnail": "terminal_tower_thumbnail.jpg",
+          "stream_url": "https://videos-3.earthcam.com/fecnetwork/39722.flv/playlist.m3u8?t=TOYLYiK7vJw5a%2BCFux1fW2Ag7dxmzAvvo9l5AaEBhG7FzIoHITBWVTYqHZeW%2BAoL&td=202506120910",
+          "category": "city-skylines"
+        },
+        {
+          "id": "skydeck-cam-chicago",
+          "name": "Skydeck Cam",
+          "location": "Chicago, IL",
+          "thumbnail": "skydeck_chicago_thumbnail.jpg",
+          "stream_url": "https://videos-3.earthcam.com/fecnetwork/22820.flv/playlist.m3u8?t=dBtN5TW1T8fuVoEEKE7PQBgYDpfkwAKrcIirPYM3sbC7hPuiRFvUaZDk5KlCZm%2BW&td=202506120913",
+          "category": "city-skylines"
+        }
+      ]
     },
     {
-      "name": "Cape Town Cam",
-      "location": "Cape Town, South Africa",
-      "stream_url": "https://videos-3.earthcam.com/fecnetwork/24898.flv/playlist.m3u8?t=fuiXK%2Bgvagq05%2FykD1p%2BOS08aABJ44b3V2STEAJLbpzIwJBQOe9bXxCm5Q21bek%2F&td=202506120930"
+      "id": "03",
+      "title": "LIVE on My EarthCam",
+      "cameras": [
+        {
+          "id": "kuopio-city-cam",
+          "name": "Kuopio City by Lake Kallavesi",
+          "location": "Kuopio, Finland",
+          "thumbnail": "kuopio_city_thumbnail.jpg",
+          "stream_url": "https://video1.earthcam.com/myearthcam/192550ec9a13cdbefd69056218d71238.flv/playlist.m3u8",
+          "category": "live-earthcam"
+        },
+        {
+          "id": "ken78-page",
+          "name": "ken78 Page",
+          "location": "WATTSBURG, PA",
+          "thumbnail": "ken78_page_thumbnail.jpg",
+          "stream_url": "https://video1.earthcam.com/myearthcam/3bd7148067237eaefb65afdfd4ae2ddf.flv/playlist.m3u8",
+          "category": "live-earthcam"
+        },
+        {
+          "id": "lake-norman-feeder-ptz",
+          "name": "Lake Norman Area Feeder PTZ-T...",
+          "location": "Troutman, NC",
+          "thumbnail": "lake_norman_thumbnail.jpg",
+          "stream_url": "https://video1.earthcam.com/myearthcam/b3ec5146330489dedaeacc2b1f3d07a2.flv/playlist.m3u8",
+          "category": "live-earthcam"
+        },
+        {
+          "id": "dock-9-warren",
+          "name": "Welcome to Dock 9 Warren, PA",
+          "location": "Warren, PA",
+          "thumbnail": "dock_9_warren_thumbnail.jpg",
+          "stream_url": "https://video1.earthcam.com/myearthcam/90c3b3ee77e5093f6034ef75ed069cef.flv/playlist.m3u8",
+          "category": "live-earthcam"
+        },
+        {
+          "id": "sky-view-ottumwa",
+          "name": "Sky View",
+          "location": "Ottumwa, IA",
+          "thumbnail": "sky_view_ottumwa_thumbnail.jpg",
+          "stream_url": "https://video1.earthcam.com/myearthcam/3feb53014ab458249ca9d4a00bd50c10.flv/playlist.m3u8",
+          "category": "live-earthcam"
+        }
+      ]
     },
     {
-      "name": "Reunion Tower Cam",
-      "location": "Dallas, TX",
-      "stream_url": "https://videos-3.earthcam.com/fecnetwork/27172.flv/playlist.m3u8?t=1pOoLu4rUkReYqfPyoSRfM9kuxr3Mzs1fDIQ5GpbW4oZOir16gysb3Hl%2B57eZfjA&td=202506120906"
+      "id": "04",
+      "title": "Land & Sea",
+      "cameras": [
+        {
+          "id": "village-ruidoso-grindstone",
+          "name": "Village of Ruidoso - Grindston...",
+          "location": "Ruidoso, NM",
+          "thumbnail": "village_ruidoso_thumbnail.jpg",
+          "stream_url": "https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/23564/2022/02/27/1300.mp4/playlist.m3u8",
+          "category": "land-sea"
+        },
+        {
+          "id": "sint-maarten-cam",
+          "name": "Sint Maarten Cam",
+          "location": "Philipsburg, Sint Maarten",
+          "thumbnail": "sint_maarten_thumbnail.jpg",
+          "stream_url": "https://videos-3.earthcam.com/fecnetwork/33216.flv/playlist.m3u8?t=KGOKptrX%2FtfiMIZhR3eVdL7gr5lxowRzBB0XNCLBmIiQlSWZYllFiOVlX7T4xJ8e&td=202506150716",
+          "category": "land-sea"
+        },
+        {
+          "id": "port-la-wilmington",
+          "name": "Port of LA - Wilmington",
+          "location": "Los Angeles, CA",
+          "thumbnail": "port_la_wilmington_thumbnail.jpg",
+          "stream_url": "https://videos-3.earthcam.com/fecnetwork/23808.flv/playlist.m3u8?t=uQMEsyf0gnhP9pCAu6ODXtcsVCf%2B%2FflQhIUF%2FjH%2BqPgblyXOqoLIqLsKbrUQKXIh&td=202506150730",
+          "category": "land-sea"
+        },
+        {
+          "id": "waikoloa-village-cam",
+          "name": "Waikoloa Village Cam",
+          "location": "Waikoloa, HI",
+          "thumbnail": "waikoloa_village_thumbnail.jpg",
+          "stream_url": "https://videos-3.earthcam.com/fecnetwork/18095.flv/playlist.m3u8?t=1TMvOEq%2Fs32yjVI5tuR3HfanDdp0yGvJ5OK9Vf7Th%2FERveiP4rwFF6QQVUE%2B%2F5%2Fu&td=202506150644",
+          "category": "land-sea"
+        },
+        {
+          "id": "port-la-san-pedro",
+          "name": "Port of LA - San Pedro",
+          "location": "Los Angeles, CA",
+          "thumbnail": "port_la_san_pedro_thumbnail.jpg",
+          "stream_url": "https://videos-3.earthcam.com/fecnetwork/23807.flv/playlist.m3u8?t=9xtYQEdCntqguw%2F9C1gr0wgkxtTfE0YaSHWID%2BU4DpF43ohIZYPy34m6iijl8d0t&td=202506150719",
+          "category": "land-sea"
+        },
+        {
+          "id": "tamariu-beach-cam",
+          "name": "Tamariu Beach Cam",
+          "location": "Tamariu, Spain",
+          "thumbnail": "tamariu_beach_thumbnail.jpg",
+          "stream_url": "https://videos-3.earthcam.com/fecnetwork/21204.flv/playlist.m3u8?t=GL%2Bm74Juf%2F%2F%2BuarLu4p42zDTiKYfwjF0XlSZSjaUhhfhLV6lJGC7LW9MYpL%2BNDne&td=202506150709",
+          "category": "land-sea"
+        }
+      ]
     },
     {
-      "name": "Terminal Tower Cam",
-      "location": "Cleveland, OH",
-      "stream_url": "https://videos-3.earthcam.com/fecnetwork/39722.flv/playlist.m3u8?t=TOYLYiK7vJw5a%2BCFux1fW2Ag7dxmzAvvo9l5AaEBhG7FzIoHITBWVTYqHZeW%2BAoL&td=202506120910"
+      "id": "05",
+      "title": "Tropical Destinations",
+      "cameras": [
+        {
+          "id": "atlantis-view-cam",
+          "name": "Atlantis View Cam",
+          "location": "Nassau, Bahamas",
+          "thumbnail": "atlantis_view_thumbnail.jpg",
+          "stream_url": "https://videos-3.earthcam.com/fecnetwork/21961.flv/playlist.m3u8?t=X2Sg%2FOCHiQYA9GUJHw%2BApd%2Ba5%2F%2BH5JlZ1ljRZWPXvtHRAQREczBEaTgrphucNJFh&td=202506150734",
+          "category": "tropical-destinations"
+        },
+        {
+          "id": "waikiki-beach-cam",
+          "name": "Waikiki Beach Cam",
+          "location": "Honolulu, HI",
+          "thumbnail": "waikiki_beach_thumbnail.jpg",
+          "stream_url": "https://videos-3.earthcam.com/fecnetwork/31920.flv/playlist.m3u8?t=8vhwgyPrFoEHf038hzHUmGrYitmT9SCIXBqf%2FFksSLRlA2ZThd6XYKI4VQA5u2%2Bn&td=202506150644",
+          "category": "tropical-destinations"
+        },
+        {
+          "id": "scrub-island-cam",
+          "name": "Scrub Island Cam",
+          "location": "Tortola, Virgin Islands, British",
+          "thumbnail": "scrub_island_thumbnail.jpg",
+          "stream_url": "https://videos-3.earthcam.com/fecnetwork/31176.flv/playlist.m3u8?t=Agp3vVhcpioNgOn0sVbZ6tQlB2FYliYLHTN5RO6gPnp%2FCzdKkXyChpyDPd%2B2ZDHI&td=202506150725",
+          "category": "tropical-destinations"
+        },
+        {
+          "id": "druit-resort-cams",
+          "name": "Druit Resort Cams - Resort Vie...",
+          "location": "Oranjestad, Aruba",
+          "thumbnail": "druit_resort_thumbnail.jpg",
+          "stream_url": "https://videos-3.earthcam.com/fecnetwork/20095.flv/playlist.m3u8?t=T4AUDDZdWZth5X%2FXroDP38k6l%2Fc2W%2FCfv4vl9HRuaai7bQwKuJg745jrgxSCMa8k&td=202506150646",
+          "category": "tropical-destinations"
+        },
+        {
+          "id": "frenchmans-cove-cam",
+          "name": "Frenchman's Cove Cam",
+          "location": "St Thomas, Virgin Islands, U.S.",
+          "thumbnail": "frenchmans_cove_thumbnail.jpg",
+          "stream_url": "https://videos-3.earthcam.com/fecnetwork/6528.flv/playlist.m3u8?t=c78xGVfEIxC5r%2BkEQWMSeSgZh8PNLtFx4AgJUKUTV3bmgSDv8C4FB%2FQpyCd%2FPq5M&td=202506150736",
+          "category": "tropical-destinations"
+        },
+        {
+          "id": "waikoloa-village-cam-2",
+          "name": "Waikoloa Village Cam",
+          "location": "Waikoloa, HI",
+          "thumbnail": "waikoloa_village_2_thumbnail.jpg",
+          "stream_url": "https://videos-3.earthcam.com/fecnetwork/18095.flv/playlist.m3u8?t=1TMvOEq%2Fs32yjVI5tuR3HfanDdp0yGvJ5OK9Vf7Th%2FEY7FEa%2B81j7MwvW4ykDs44&td=202506150731",
+          "category": "tropical-destinations"
+        }
+      ]
     },
     {
-      "name": "Skydeck Cam",
-      "location": "Chicago, IL",
-      "stream_url": "https://videos-3.earthcam.com/fecnetwork/22820.flv/playlist.m3u8?t=dBtN5TW1T8fuVoEEKE7PQBgYDpfkwAKrcIirPYM3sbC7hPuiRFvUaZDk5KlCZm%2BW&td=202506120913"
+      "id": "06",
+      "title": "Iconic Landmarks",
+      "cameras": [
+        {
+          "id": "kansas-city-cam",
+          "name": "Kansas City Cam",
+          "location": "Kansas City, MO",
+          "thumbnail": "kansas_city_thumbnail.jpg",
+          "stream_url": "https://videos-3.earthcam.com/fecnetwork/18792.flv/playlist.m3u8?t=bret8DMublJZ%2FDFuNdaQg%2B0ipqZxsXwpPxJj1haEMeV3mh5FYMc2Rg7K5uctYl9Z&td=202506150738",
+          "category": "iconic-landmarks"
+        },
+        {
+          "id": "tbilisi-freedom-square-cam",
+          "name": "Tbilisi Freedom Square Cam",
+          "location": "Tbilisi, Georgia",
+          "thumbnail": "tbilisi_freedom_square_thumbnail.jpg",
+          "stream_url": "https://videos-3.earthcam.com/fecnetwork/17101.flv/playlist.m3u8?t=R1zIGq0FGgG7oDdevICwAzxlwO3UtzYTd6Pef1SJstBjgRBQ1NiPFBwZ3IWc7IuW&td=202506150723",
+          "category": "iconic-landmarks"
+        },
+        {
+          "id": "niagara-falls-cam",
+          "name": "Niagara Falls - The Falls Cam",
+          "location": "Niagara Falls, Canada",
+          "thumbnail": "niagara_falls_thumbnail.jpg",
+          "stream_url": "https://videos-3.earthcam.com/fecnetwork/15527.flv/playlist.m3u8?t=rTpEtwAFUW0%2BXz8YVqXGLgc1t%2FIlFVoqI8yJCFh1LQnmdV3bbpjwEflz1t4DQvsr&td=202506150724",
+          "category": "iconic-landmarks"
+        },
+        {
+          "id": "western-wall-cam",
+          "name": "Western Wall Cam",
+          "location": "Jerusalem, Israel",
+          "thumbnail": "western_wall_thumbnail.jpg",
+          "stream_url": "https://videos-3.earthcam.com/fecnetwork/7949.flv/playlist.m3u8?t=qJ8klkLQpmFc8tdfbSweV%2FYro5ZzjupmVXt5WSbEaa3AeT7Ht1oy3vcq2EYqdEh5&td=202506150738",
+          "category": "iconic-landmarks"
+        },
+        {
+          "id": "statue-liberty-crowncam",
+          "name": "Statue of Liberty CrownCam",
+          "location": "New York City, NY",
+          "thumbnail": "statue_liberty_thumbnail.jpg",
+          "stream_url": "https://videos-3.earthcam.com/fecnetwork/4089.flv/playlist.m3u8?t=E6ER2dlWZPGDTLmnGY7AOX%2BlD3B59fFSUDMddIJG6Ye1Pu4QEB%2FC6gYCOLFmg%2Bau&td=202506150733",
+          "category": "iconic-landmarks"
+        },
+        {
+          "id": "times-square-street-cam",
+          "name": "Times Square Street Cam",
+          "location": "New York City, NY",
+          "thumbnail": "times_square_thumbnail.jpg",
+          "stream_url": "https://videos-3.earthcam.com/fecnetwork/9974.flv/playlist.m3u8?t=%2FeC3ZmOA%2BWko%2F9oYTVi%2B2F1FCtCsD6U02gtmGMhDX2pniYdjRpZ7o5RCvNZB24hJ&td=202506150735",
+          "category": "iconic-landmarks"
+        }
+      ]
+    },
+    {
+      "id": "07",
+      "title": "Animals & Nature",
+      "cameras": [
+        {
+          "id": "animal-rescue-cam",
+          "name": "Animal Rescue Cam",
+          "location": "Oakland, NJ",
+          "thumbnail": "animal_rescue_thumbnail.jpg",
+          "stream_url": "https://videos-3.earthcam.com/fecnetwork/29403.flv/playlist.m3u8?t=xj0ExhidulyoCjJu%2F2xq5qWwnYA%2BnwqxG9t9H%2BKs4HTdJEXFteH58nHI45lkgWin&td=202506150657",
+          "category": "animals-nature"
+        },
+        {
+          "id": "falcon-cam",
+          "name": "Falcon Cam",
+          "location": "Franklin County, MO",
+          "thumbnail": "falcon_cam_thumbnail.jpg",
+          "stream_url": "https://videos-3.earthcam.com/fecnetwork/41395.flv/playlist.m3u8?t=FXuhAqyNA1NkCPaGP%2FmIQBpA%2F9t8Cf5yy8GDKuTDRnZTg4lmef5xOkZfcP534xKN&td=202506150729",
+          "category": "animals-nature"
+        },
+        {
+          "id": "shark-cam",
+          "name": "Shark Cam",
+          "location": "Baltimore, MD",
+          "thumbnail": "shark_cam_thumbnail.jpg",
+          "stream_url": "https://videos-3.earthcam.com/fecnetwork/nabtrcam1.flv/playlist.m3u8?t=YRJU5fPYfajRhUXpAREcHe5mDSD83Jf9VQNw5PYdqfIJAglPIZgbSDFCTslUtLflvoyt6jDz02c%2BmQxylkWPqA%3D%3D&td=202506150732",
+          "category": "animals-nature"
+        },
+        {
+          "id": "critter-cam",
+          "name": "Critter Cam",
+          "location": "Webster, NY",
+          "thumbnail": "critter_cam_thumbnail.jpg",
+          "stream_url": "https://videos-3.earthcam.com/fecnetwork/27779.flv/playlist.m3u8?t=sh5Bd%2FKx8CMTJ9FpKCU0P7MngPctDEDOHCTHc8mupCCDop1Q3EGN0Qmpbi9ypfmk&td=202506150709",
+          "category": "animals-nature"
+        },
+        {
+          "id": "michigan-snowman-cam",
+          "name": "Michigan Snowman Cam",
+          "location": "Gaylord, MI",
+          "thumbnail": "michigan_snowman_thumbnail.jpg",
+          "stream_url": "https://videos-3.earthcam.com/fecnetwork/13706.flv/playlist.m3u8?t=z6nB2mvB7fVRwGP9d5q8HkQOt517mPZeS8kGxr9WE4z6G6TLitLYUlKkDKK7Z1wK&td=202506150728",
+          "category": "animals-nature"
+        },
+        {
+          "id": "bali-elephant-cam",
+          "name": "Bali Elephant Cam Trail Path",
+          "location": "Bali, Indonesia",
+          "thumbnail": "bali_elephant_thumbnail.jpg",
+          "stream_url": "https://videos-3.earthcam.com/fecnetwork/4337.flv/playlist.m3u8?t=2M6rQ%2BzlqRwEJf47zdLJ80g%2FPMnP7VQDpvD50v%2BP1LQocHMvaiNaBgTkwSjWZOgg&td=202506150727",
+          "category": "animals-nature"
+        }
+      ]
     }
   ]
 }
