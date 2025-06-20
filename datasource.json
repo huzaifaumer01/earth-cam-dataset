@@ -5,44 +5,134 @@
       "title": "Spotlight",
       "cameras": [
         {
-          "id": "seaside-heights-cam",
+          "id": "01-01",
           "name": "Seaside Heights Cam - Amusemen...",
-          "location": "Seaside Heights, NJ",
+          "location": {
+            "name": "Seaside Heights, NJ",
+            "lat": 39.9442,
+            "long": -74.0726,
+            "country": "United States",
+            "city": "Seaside Heights",
+            "countryCode": "US"
+          },
           "thumbnail": "seaside_heights_thumbnail.jpg",
           "stream_url": "https://videos-3.earthcam.com/fecnetwork/15276.flv/playlist.m3u8?t=0d86GRpcsgFQ2CQ37usF8%2BB%2FbgkMLjVd0eGlBBRlnaYvBxR5gyH289Qr6Mp88jje&td=202506150607",
-          "category": "spotlight"
+          "category": "spotlight",
+          "views": 15420,
+          "weather": {
+            "temperature": {
+              "current": 72,
+              "high": 78,
+              "low": 65,
+              "unit": "F",
+              "feelsLike": 74,
+              "humidity": 68
+            }
+          }
         },
         {
-          "id": "empire-cam",
+          "id": "01-02",
           "name": "Empire Cam",
-          "location": "New York City, NY",
+          "location": {
+            "name": "New York City, NY",
+            "lat": 40.7485,
+            "long": -73.9857,
+            "country": "United States",
+            "city": "New York City",
+            "countryCode": "US"
+          },
           "thumbnail": "empire_cam_thumbnail.jpg",
           "stream_url": "https://videos-3.earthcam.com/fecnetwork/20489.flv/playlist.m3u8?t=osRbbBf3imjU4AsiPop2dF6U95ZerQNVB%2BYXxTkaG6cG8vJExaqTaSIx%2F%2FRO18DN&td=202506150608",
-          "category": "spotlight"
+          "category": "spotlight",
+          "views": 28750,
+          "weather": {
+            "temperature": {
+              "current": 69,
+              "high": 75,
+              "low": 62,
+              "unit": "F",
+              "feelsLike": 71,
+              "humidity": 55
+            }
+          }
         },
         {
-          "id": "skydeck-cam-west",
+          "id": "01-03",
           "name": "Skydeck Cam - West View",
-          "location": "Chicago, IL",
+          "location": {
+            "name": "Chicago, IL",
+            "lat": 41.8781,
+            "long": -87.6298,
+            "country": "United States",
+            "city": "Chicago",
+            "countryCode": "US"
+          },
           "thumbnail": "skydeck_west_thumbnail.jpg",
           "stream_url": "https://videos-3.earthcam.com/fecnetwork/42881.flv/playlist.m3u8?t=IF6K%2F2cHg2A6t%2BnMsxjFRDp0NVA%2F0ifw%2BPbHOuYNMac5O8mkIbn7AyqCNpVKBAZG&td=202506150608",
-          "category": "spotlight"
+          "category": "spotlight",
+          "views": 19832,
+          "weather": {
+            "temperature": {
+              "current": 66,
+              "high": 71,
+              "low": 58,
+              "unit": "F",
+              "feelsLike": 68,
+              "humidity": 62
+            }
+          }
         },
         {
-          "id": "downtown-mystic-cam",
+          "id": "01-04",
           "name": "Downtown Mystic Cam",
-          "location": "Mystic, CT",
+          "location": {
+            "name": "Mystic, CT",
+            "lat": 41.3543,
+            "long": -71.9662,
+            "country": "United States",
+            "city": "Mystic",
+            "countryCode": "US"
+          },
           "thumbnail": "mystic_cam_thumbnail.jpg",
           "stream_url": "https://videos-3.earthcam.com/fecnetwork/32669.flv/playlist.m3u8?t=UMlcXtARyEBPNL2f7j5QW%2FZUvfup493IIvKX0LPwwddxchOEYMdasX1%2B0gNga%2BN8&td=202506150609",
-          "category": "spotlight"
+          "category": "spotlight",
+          "views": 8420,
+          "weather": {
+            "temperature": {
+              "current": 70,
+              "high": 76,
+              "low": 64,
+              "unit": "F",
+              "feelsLike": 72,
+              "humidity": 58
+            }
+          }
         },
         {
-          "id": "glen-cove-cam",
+          "id": "01-05",
           "name": "Glen Cove Cam",
-          "location": "Onset, MA",
+          "location": {
+            "name": "Onset, MA",
+            "lat": 41.7459,
+            "long": -70.6612,
+            "country": "United States",
+            "city": "Onset",
+            "countryCode": "US"
+          },
           "thumbnail": "glen_cove_thumbnail.jpg",
           "stream_url": "https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/22357/2023/07/25/1301.mp4/playlist.m3u8",
-          "category": "spotlight"
+          "category": "spotlight",
+          "views": 5680,
+          "weather": {
+            "temperature": {
+              "current": 71,
+              "high": 77,
+              "low": 65,
+              "unit": "F",
+              "feelsLike": 73,
+              "humidity": 61
+            }
+          }
         }
       ]
     },
@@ -51,52 +141,160 @@
       "title": "City Skylines",
       "cameras": [
         {
-          "id": "cn-tower-cam-east",
+          "id": "02-01",
           "name": "CN Tower Cam - East View",
-          "location": "Toronto, Canada",
+          "location": {
+            "name": "Toronto, Canada",
+            "lat": 43.6426,
+            "long": -79.3871,
+            "country": "Canada",
+            "city": "Toronto",
+            "countryCode": "CA"
+          },
           "thumbnail": "cn_tower_east_thumbnail.jpg",
           "stream_url": "https://videos-3.earthcam.com/fecnetwork/9299.flv/playlist.m3u8?t=hJ8%2BG1g8bVb%2FczH06uGS69xV%2BZ6jqvsg%2B84ouFksQgkHSg7RrITXJJvueCrX0LDO&td=202506120905",
-          "category": "city-skylines"
+          "category": "city-skylines",
+          "views": 22140,
+          "weather": {
+            "temperature": {
+              "current": 18,
+              "high": 23,
+              "low": 12,
+              "unit": "C",
+              "feelsLike": 16,
+              "humidity": 65
+            }
+          }
         },
         {
-          "id": "hotel-nes-cam",
+          "id": "02-02",
           "name": "Hotel Nes Cam",
-          "location": "Amsterdam, Netherlands",
+          "location": {
+            "name": "Amsterdam, Netherlands",
+            "lat": 52.3676,
+            "long": 4.9041,
+            "country": "Netherlands",
+            "city": "Amsterdam",
+            "countryCode": "NL"
+          },
           "thumbnail": "hotel_nes_thumbnail.jpg",
           "stream_url": "https://videos-3.earthcam.com/fecnetwork/21250.flv/playlist.m3u8?t=7byvK0ql%2BefK%2Fu0U0I7LyfmtN1yWf2fA1JxukZiTku8ia69ofYAtx2v8JtSTSysy&td=202506120929",
-          "category": "city-skylines"
+          "category": "city-skylines",
+          "views": 18650,
+          "weather": {
+            "temperature": {
+              "current": 16,
+              "high": 20,
+              "low": 11,
+              "unit": "C",
+              "feelsLike": 14,
+              "humidity": 72
+            }
+          }
         },
         {
-          "id": "cape-town-cam",
+          "id": "02-03",
           "name": "Cape Town Cam",
-          "location": "Cape Town, South Africa",
+          "location": {
+            "name": "Cape Town, South Africa",
+            "lat": -33.9249,
+            "long": 18.4241,
+            "country": "South Africa",
+            "city": "Cape Town",
+            "countryCode": "ZA"
+          },
           "thumbnail": "cape_town_thumbnail.jpg",
           "stream_url": "https://videos-3.earthcam.com/fecnetwork/24898.flv/playlist.m3u8?t=fuiXK%2Bgvagq05%2FykD1p%2BOS08aABJ44b3V2STEAJLbpzIwJBQOe9bXxCm5Q21bek%2F&td=202506120930",
-          "category": "city-skylines"
+          "category": "city-skylines",
+          "views": 14220,
+          "weather": {
+            "temperature": {
+              "current": 15,
+              "high": 19,
+              "low": 9,
+              "unit": "C",
+              "feelsLike": 13,
+              "humidity": 58
+            }
+          }
         },
         {
-          "id": "reunion-tower-cam",
+          "id": "02-04",
           "name": "Reunion Tower Cam",
-          "location": "Dallas, TX",
+          "location": {
+            "name": "Dallas, TX",
+            "lat": 32.7767,
+            "long": -96.7970,
+            "country": "United States",
+            "city": "Dallas",
+            "countryCode": "US"
+          },
           "thumbnail": "reunion_tower_thumbnail.jpg",
           "stream_url": "https://videos-3.earthcam.com/fecnetwork/27172.flv/playlist.m3u8?t=1pOoLu4rUkReYqfPyoSRfM9kuxr3Mzs1fDIQ5GpbW4oZOir16gysb3Hl%2B57eZfjA&td=202506120906",
-          "category": "city-skylines"
+          "category": "city-skylines",
+          "views": 16890,
+          "weather": {
+            "temperature": {
+              "current": 85,
+              "high": 92,
+              "low": 78,
+              "unit": "F",
+              "feelsLike": 89,
+              "humidity": 45
+            }
+          }
         },
         {
-          "id": "terminal-tower-cam",
+          "id": "02-05",
           "name": "Terminal Tower Cam",
-          "location": "Cleveland, OH",
+          "location": {
+            "name": "Cleveland, OH",
+            "lat": 41.4993,
+            "long": -81.6944,
+            "country": "United States",
+            "city": "Cleveland",
+            "countryCode": "US"
+          },
           "thumbnail": "terminal_tower_thumbnail.jpg",
           "stream_url": "https://videos-3.earthcam.com/fecnetwork/39722.flv/playlist.m3u8?t=TOYLYiK7vJw5a%2BCFux1fW2Ag7dxmzAvvo9l5AaEBhG7FzIoHITBWVTYqHZeW%2BAoL&td=202506120910",
-          "category": "city-skylines"
+          "category": "city-skylines",
+          "views": 9750,
+          "weather": {
+            "temperature": {
+              "current": 68,
+              "high": 74,
+              "low": 61,
+              "unit": "F",
+              "feelsLike": 70,
+              "humidity": 59
+            }
+          }
         },
         {
-          "id": "skydeck-cam-chicago",
+          "id": "02-06",
           "name": "Skydeck Cam",
-          "location": "Chicago, IL",
+          "location": {
+            "name": "Chicago, IL",
+            "lat": 41.8781,
+            "long": -87.6298,
+            "country": "United States",
+            "city": "Chicago",
+            "countryCode": "US"
+          },
           "thumbnail": "skydeck_chicago_thumbnail.jpg",
           "stream_url": "https://videos-3.earthcam.com/fecnetwork/22820.flv/playlist.m3u8?t=dBtN5TW1T8fuVoEEKE7PQBgYDpfkwAKrcIirPYM3sbC7hPuiRFvUaZDk5KlCZm%2BW&td=202506120913",
-          "category": "city-skylines"
+          "category": "city-skylines",
+          "views": 25430,
+          "weather": {
+            "temperature": {
+              "current": 66,
+              "high": 71,
+              "low": 58,
+              "unit": "F",
+              "feelsLike": 68,
+              "humidity": 62
+            }
+          }
         }
       ]
     },
@@ -105,44 +303,134 @@
       "title": "LIVE on My EarthCam",
       "cameras": [
         {
-          "id": "kuopio-city-cam",
+          "id": "03-01",
           "name": "Kuopio City by Lake Kallavesi",
-          "location": "Kuopio, Finland",
+          "location": {
+            "name": "Kuopio, Finland",
+            "lat": 62.8924,
+            "long": 27.6782,
+            "country": "Finland",
+            "city": "Kuopio",
+            "countryCode": "FI"
+          },
           "thumbnail": "kuopio_city_thumbnail.jpg",
           "stream_url": "https://video1.earthcam.com/myearthcam/192550ec9a13cdbefd69056218d71238.flv/playlist.m3u8",
-          "category": "live-earthcam"
+          "category": "live-earthcam",
+          "views": 7320,
+          "weather": {
+            "temperature": {
+              "current": 8,
+              "high": 12,
+              "low": 3,
+              "unit": "C",
+              "feelsLike": 5,
+              "humidity": 78
+            }
+          }
         },
         {
-          "id": "ken78-page",
+          "id": "03-02",
           "name": "ken78 Page",
-          "location": "WATTSBURG, PA",
+          "location": {
+            "name": "WATTSBURG, PA",
+            "lat": 42.0081,
+            "long": -79.8047,
+            "country": "United States",
+            "city": "Wattsburg",
+            "countryCode": "US"
+          },
           "thumbnail": "ken78_page_thumbnail.jpg",
           "stream_url": "https://video1.earthcam.com/myearthcam/3bd7148067237eaefb65afdfd4ae2ddf.flv/playlist.m3u8",
-          "category": "live-earthcam"
+          "category": "live-earthcam",
+          "views": 3420,
+          "weather": {
+            "temperature": {
+              "current": 64,
+              "high": 70,
+              "low": 56,
+              "unit": "F",
+              "feelsLike": 66,
+              "humidity": 67
+            }
+          }
         },
         {
-          "id": "lake-norman-feeder-ptz",
+          "id": "03-03",
           "name": "Lake Norman Area Feeder PTZ-T...",
-          "location": "Troutman, NC",
+          "location": {
+            "name": "Troutman, NC",
+            "lat": 35.7010,
+            "long": -80.8837,
+            "country": "United States",
+            "city": "Troutman",
+            "countryCode": "US"
+          },
           "thumbnail": "lake_norman_thumbnail.jpg",
           "stream_url": "https://video1.earthcam.com/myearthcam/b3ec5146330489dedaeacc2b1f3d07a2.flv/playlist.m3u8",
-          "category": "live-earthcam"
+          "category": "live-earthcam",
+          "views": 5840,
+          "weather": {
+            "temperature": {
+              "current": 79,
+              "high": 86,
+              "low": 72,
+              "unit": "F",
+              "feelsLike": 82,
+              "humidity": 71
+            }
+          }
         },
         {
-          "id": "dock-9-warren",
+          "id": "03-04",
           "name": "Welcome to Dock 9 Warren, PA",
-          "location": "Warren, PA",
+          "location": {
+            "name": "Warren, PA",
+            "lat": 41.8439,
+            "long": -79.1453,
+            "country": "United States",
+            "city": "Warren",
+            "countryCode": "US"
+          },
           "thumbnail": "dock_9_warren_thumbnail.jpg",
           "stream_url": "https://video1.earthcam.com/myearthcam/90c3b3ee77e5093f6034ef75ed069cef.flv/playlist.m3u8",
-          "category": "live-earthcam"
+          "category": "live-earthcam",
+          "views": 2180,
+          "weather": {
+            "temperature": {
+              "current": 63,
+              "high": 69,
+              "low": 55,
+              "unit": "F",
+              "feelsLike": 65,
+              "humidity": 64
+            }
+          }
         },
         {
-          "id": "sky-view-ottumwa",
+          "id": "03-05",
           "name": "Sky View",
-          "location": "Ottumwa, IA",
+          "location": {
+            "name": "Ottumwa, IA",
+            "lat": 41.0186,
+            "long": -92.4099,
+            "country": "United States",
+            "city": "Ottumwa",
+            "countryCode": "US"
+          },
           "thumbnail": "sky_view_ottumwa_thumbnail.jpg",
           "stream_url": "https://video1.earthcam.com/myearthcam/3feb53014ab458249ca9d4a00bd50c10.flv/playlist.m3u8",
-          "category": "live-earthcam"
+          "category": "live-earthcam",
+          "views": 4560,
+          "weather": {
+            "temperature": {
+              "current": 73,
+              "high": 80,
+              "low": 65,
+              "unit": "F",
+              "feelsLike": 75,
+              "humidity": 56
+            }
+          }
         }
       ]
     },
@@ -151,52 +439,160 @@
       "title": "Land & Sea",
       "cameras": [
         {
-          "id": "village-ruidoso-grindstone",
+          "id": "04-01",
           "name": "Village of Ruidoso - Grindston...",
-          "location": "Ruidoso, NM",
+          "location": {
+            "name": "Ruidoso, NM",
+            "lat": 33.3317,
+            "long": -105.6733,
+            "country": "United States",
+            "city": "Ruidoso",
+            "countryCode": "US"
+          },
           "thumbnail": "village_ruidoso_thumbnail.jpg",
           "stream_url": "https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/23564/2022/02/27/1300.mp4/playlist.m3u8",
-          "category": "land-sea"
+          "category": "land-sea",
+          "views": 6420,
+          "weather": {
+            "temperature": {
+              "current": 76,
+              "high": 82,
+              "low": 68,
+              "unit": "F",
+              "feelsLike": 78,
+              "humidity": 35
+            }
+          }
         },
         {
-          "id": "sint-maarten-cam",
+          "id": "04-02",
           "name": "Sint Maarten Cam",
-          "location": "Philipsburg, Sint Maarten",
+          "location": {
+            "name": "Philipsburg, Sint Maarten",
+            "lat": 18.0255,
+            "long": -63.0458,
+            "country": "Sint Maarten",
+            "city": "Philipsburg",
+            "countryCode": "SX"
+          },
           "thumbnail": "sint_maarten_thumbnail.jpg",
           "stream_url": "https://videos-3.earthcam.com/fecnetwork/33216.flv/playlist.m3u8?t=KGOKptrX%2FtfiMIZhR3eVdL7gr5lxowRzBB0XNCLBmIiQlSWZYllFiOVlX7T4xJ8e&td=202506150716",
-          "category": "land-sea"
+          "category": "land-sea",
+          "views": 11750,
+          "weather": {
+            "temperature": {
+              "current": 84,
+              "high": 87,
+              "low": 80,
+              "unit": "F",
+              "feelsLike": 89,
+              "humidity": 78
+            }
+          }
         },
         {
-          "id": "port-la-wilmington",
+          "id": "04-03",
           "name": "Port of LA - Wilmington",
-          "location": "Los Angeles, CA",
+          "location": {
+            "name": "Los Angeles, CA",
+            "lat": 33.7866,
+            "long": -118.2987,
+            "country": "United States",
+            "city": "Los Angeles",
+            "countryCode": "US"
+          },
           "thumbnail": "port_la_wilmington_thumbnail.jpg",
           "stream_url": "https://videos-3.earthcam.com/fecnetwork/23808.flv/playlist.m3u8?t=uQMEsyf0gnhP9pCAu6ODXtcsVCf%2B%2FflQhIUF%2FjH%2BqPgblyXOqoLIqLsKbrUQKXIh&td=202506150730",
-          "category": "land-sea"
+          "category": "land-sea",
+          "views": 13290,
+          "weather": {
+            "temperature": {
+              "current": 74,
+              "high": 79,
+              "low": 68,
+              "unit": "F",
+              "feelsLike": 76,
+              "humidity": 65
+            }
+          }
         },
         {
-          "id": "waikoloa-village-cam",
+          "id": "04-04",
           "name": "Waikoloa Village Cam",
-          "location": "Waikoloa, HI",
+          "location": {
+            "name": "Waikoloa, HI",
+            "lat": 19.9394,
+            "long": -155.7906,
+            "country": "United States",
+            "city": "Waikoloa",
+            "countryCode": "US"
+          },
           "thumbnail": "waikoloa_village_thumbnail.jpg",
           "stream_url": "https://videos-3.earthcam.com/fecnetwork/18095.flv/playlist.m3u8?t=1TMvOEq%2Fs32yjVI5tuR3HfanDdp0yGvJ5OK9Vf7Th%2FERveiP4rwFF6QQVUE%2B%2F5%2Fu&td=202506150644",
-          "category": "land-sea"
+          "category": "land-sea",
+          "views": 18520,
+          "weather": {
+            "temperature": {
+              "current": 82,
+              "high": 86,
+              "low": 77,
+              "unit": "F",
+              "feelsLike": 85,
+              "humidity": 68
+            }
+          }
         },
         {
-          "id": "port-la-san-pedro",
+          "id": "04-05",
           "name": "Port of LA - San Pedro",
-          "location": "Los Angeles, CA",
+          "location": {
+            "name": "Los Angeles, CA",
+            "lat": 33.7361,
+            "long": -118.2922,
+            "country": "United States",
+            "city": "Los Angeles",
+            "countryCode": "US"
+          },
           "thumbnail": "port_la_san_pedro_thumbnail.jpg",
           "stream_url": "https://videos-3.earthcam.com/fecnetwork/23807.flv/playlist.m3u8?t=9xtYQEdCntqguw%2F9C1gr0wgkxtTfE0YaSHWID%2BU4DpF43ohIZYPy34m6iijl8d0t&td=202506150719",
-          "category": "land-sea"
+          "category": "land-sea",
+          "views": 9840,
+          "weather": {
+            "temperature": {
+              "current": 74,
+              "high": 79,
+              "low": 68,
+              "unit": "F",
+              "feelsLike": 76,
+              "humidity": 65
+            }
+          }
         },
         {
-          "id": "tamariu-beach-cam",
+          "id": "04-06",
           "name": "Tamariu Beach Cam",
-          "location": "Tamariu, Spain",
+          "location": {
+            "name": "Tamariu, Spain",
+            "lat": 41.9294,
+            "long": 3.2095,
+            "country": "Spain",
+            "city": "Tamariu",
+            "countryCode": "ES"
+          },
           "thumbnail": "tamariu_beach_thumbnail.jpg",
           "stream_url": "https://videos-3.earthcam.com/fecnetwork/21204.flv/playlist.m3u8?t=GL%2Bm74Juf%2F%2F%2BuarLu4p42zDTiKYfwjF0XlSZSjaUhhfhLV6lJGC7LW9MYpL%2BNDne&td=202506150709",
-          "category": "land-sea"
+          "category": "land-sea",
+          "views": 8630,
+          "weather": {
+            "temperature": {
+              "current": 21,
+              "high": 26,
+              "low": 17,
+              "unit": "C",
+              "feelsLike": 23,
+              "humidity": 58
+            }
+          }
         }
       ]
     },
@@ -205,52 +601,160 @@
       "title": "Tropical Destinations",
       "cameras": [
         {
-          "id": "atlantis-view-cam",
+          "id": "05-01",
           "name": "Atlantis View Cam",
-          "location": "Nassau, Bahamas",
+          "location": {
+            "name": "Nassau, Bahamas",
+            "lat": 25.0443,
+            "long": -77.3504,
+            "country": "Bahamas",
+            "city": "Nassau",
+            "countryCode": "BS"
+          },
           "thumbnail": "atlantis_view_thumbnail.jpg",
           "stream_url": "https://videos-3.earthcam.com/fecnetwork/21961.flv/playlist.m3u8?t=X2Sg%2FOCHiQYA9GUJHw%2BApd%2Ba5%2F%2BH5JlZ1ljRZWPXvtHRAQREczBEaTgrphucNJFh&td=202506150734",
-          "category": "tropical-destinations"
+          "category": "tropical-destinations",
+          "views": 24680,
+          "weather": {
+            "temperature": {
+              "current": 86,
+              "high": 89,
+              "low": 82,
+              "unit": "F",
+              "feelsLike": 92,
+              "humidity": 74
+            }
+          }
         },
         {
-          "id": "waikiki-beach-cam",
+          "id": "05-02",
           "name": "Waikiki Beach Cam",
-          "location": "Honolulu, HI",
+          "location": {
+            "name": "Honolulu, HI",
+            "lat": 21.2793,
+            "long": -157.8293,
+            "country": "United States",
+            "city": "Honolulu",
+            "countryCode": "US"
+          },
           "thumbnail": "waikiki_beach_thumbnail.jpg",
           "stream_url": "https://videos-3.earthcam.com/fecnetwork/31920.flv/playlist.m3u8?t=8vhwgyPrFoEHf038hzHUmGrYitmT9SCIXBqf%2FFksSLRlA2ZThd6XYKI4VQA5u2%2Bn&td=202506150644",
-          "category": "tropical-destinations"
+          "category": "tropical-destinations",
+          "views": 35420,
+          "weather": {
+            "temperature": {
+              "current": 83,
+              "high": 87,
+              "low": 78,
+              "unit": "F",
+              "feelsLike": 86,
+              "humidity": 69
+            }
+          }
         },
         {
-          "id": "scrub-island-cam",
+          "id": "05-03",
           "name": "Scrub Island Cam",
-          "location": "Tortola, Virgin Islands, British",
+          "location": {
+            "name": "Tortola, Virgin Islands, British",
+            "lat": 18.4207,
+            "long": -64.6197,
+            "country": "British Virgin Islands",
+            "city": "Tortola",
+            "countryCode": "VG"
+          },
           "thumbnail": "scrub_island_thumbnail.jpg",
           "stream_url": "https://videos-3.earthcam.com/fecnetwork/31176.flv/playlist.m3u8?t=Agp3vVhcpioNgOn0sVbZ6tQlB2FYliYLHTN5RO6gPnp%2FCzdKkXyChpyDPd%2B2ZDHI&td=202506150725",
-          "category": "tropical-destinations"
+          "category": "tropical-destinations",
+          "views": 12840,
+          "weather": {
+            "temperature": {
+              "current": 85,
+              "high": 88,
+              "low": 81,
+              "unit": "F",
+              "feelsLike": 90,
+              "humidity": 76
+            }
+          }
         },
         {
-          "id": "druit-resort-cams",
+          "id": "05-04",
           "name": "Druit Resort Cams - Resort Vie...",
-          "location": "Oranjestad, Aruba",
+          "location": {
+            "name": "Oranjestad, Aruba",
+            "lat": 12.5186,
+            "long": -70.0371,
+            "country": "Aruba",
+            "city": "Oranjestad",
+            "countryCode": "AW"
+          },
           "thumbnail": "druit_resort_thumbnail.jpg",
           "stream_url": "https://videos-3.earthcam.com/fecnetwork/20095.flv/playlist.m3u8?t=T4AUDDZdWZth5X%2FXroDP38k6l%2Fc2W%2FCfv4vl9HRuaai7bQwKuJg745jrgxSCMa8k&td=202506150646",
-          "category": "tropical-destinations"
+          "category": "tropical-destinations",
+          "views": 19750,
+          "weather": {
+            "temperature": {
+              "current": 87,
+              "high": 90,
+              "low": 84,
+              "unit": "F",
+              "feelsLike": 93,
+              "humidity": 72
+            }
+          }
         },
         {
-          "id": "frenchmans-cove-cam",
+          "id": "05-05",
           "name": "Frenchman's Cove Cam",
-          "location": "St Thomas, Virgin Islands, U.S.",
+          "location": {
+            "name": "St Thomas, Virgin Islands, U.S.",
+            "lat": 18.3381,
+            "long": -64.8941,
+            "country": "U.S. Virgin Islands",
+            "city": "St Thomas",
+            "countryCode": "VI"
+          },
           "thumbnail": "frenchmans_cove_thumbnail.jpg",
           "stream_url": "https://videos-3.earthcam.com/fecnetwork/6528.flv/playlist.m3u8?t=c78xGVfEIxC5r%2BkEQWMSeSgZh8PNLtFx4AgJUKUTV3bmgSDv8C4FB%2FQpyCd%2FPq5M&td=202506150736",
-          "category": "tropical-destinations"
+          "category": "tropical-destinations",
+          "views": 16920,
+          "weather": {
+            "temperature": {
+              "current": 86,
+              "high": 89,
+              "low": 82,
+              "unit": "F",
+              "feelsLike": 91,
+              "humidity": 75
+            }
+          }
         },
         {
-          "id": "waikoloa-village-cam-2",
+          "id": "05-06",
           "name": "Waikoloa Village Cam",
-          "location": "Waikoloa, HI",
+          "location": {
+            "name": "Waikoloa, HI",
+            "lat": 19.9394,
+            "long": -155.7906,
+            "country": "United States",
+            "city": "Waikoloa",
+            "countryCode": "US"
+          },
           "thumbnail": "waikoloa_village_2_thumbnail.jpg",
           "stream_url": "https://videos-3.earthcam.com/fecnetwork/18095.flv/playlist.m3u8?t=1TMvOEq%2Fs32yjVI5tuR3HfanDdp0yGvJ5OK9Vf7Th%2FEY7FEa%2B81j7MwvW4ykDs44&td=202506150731",
-          "category": "tropical-destinations"
+          "category": "tropical-destinations",
+          "views": 21450,
+          "weather": {
+            "temperature": {
+              "current": 82,
+              "high": 86,
+              "low": 77,
+              "unit": "F",
+              "feelsLike": 85,
+              "humidity": 68
+            }
+          }
         }
       ]
     },
@@ -259,52 +763,160 @@
       "title": "Iconic Landmarks",
       "cameras": [
         {
-          "id": "kansas-city-cam",
+          "id": "06-01",
           "name": "Kansas City Cam",
-          "location": "Kansas City, MO",
+          "location": {
+            "name": "Kansas City, MO",
+            "lat": 39.0997,
+            "long": -94.5786,
+            "country": "United States",
+            "city": "Kansas City",
+            "countryCode": "US"
+          },
           "thumbnail": "kansas_city_thumbnail.jpg",
           "stream_url": "https://videos-3.earthcam.com/fecnetwork/18792.flv/playlist.m3u8?t=bret8DMublJZ%2FDFuNdaQg%2B0ipqZxsXwpPxJj1haEMeV3mh5FYMc2Rg7K5uctYl9Z&td=202506150738",
-          "category": "iconic-landmarks"
+          "category": "iconic-landmarks",
+          "views": 11250,
+          "weather": {
+            "temperature": {
+              "current": 77,
+              "high": 83,
+              "low": 70,
+              "unit": "F",
+              "feelsLike": 79,
+              "humidity": 52
+            }
+          }
         },
         {
-          "id": "tbilisi-freedom-square-cam",
+          "id": "06-02",
           "name": "Tbilisi Freedom Square Cam",
-          "location": "Tbilisi, Georgia",
+          "location": {
+            "name": "Tbilisi, Georgia",
+            "lat": 41.6941,
+            "long": 44.8337,
+            "country": "Georgia",
+            "city": "Tbilisi",
+            "countryCode": "GE"
+          },
           "thumbnail": "tbilisi_freedom_square_thumbnail.jpg",
           "stream_url": "https://videos-3.earthcam.com/fecnetwork/17101.flv/playlist.m3u8?t=R1zIGq0FGgG7oDdevICwAzxlwO3UtzYTd6Pef1SJstBjgRBQ1NiPFBwZ3IWc7IuW&td=202506150723",
-          "category": "iconic-landmarks"
+          "category": "iconic-landmarks",
+          "views": 8420,
+          "weather": {
+            "temperature": {
+              "current": 22,
+              "high": 27,
+              "low": 16,
+              "unit": "C",
+              "feelsLike": 20,
+              "humidity": 61
+            }
+          }
         },
         {
-          "id": "niagara-falls-cam",
+          "id": "06-03",
           "name": "Niagara Falls - The Falls Cam",
-          "location": "Niagara Falls, Canada",
+          "location": {
+            "name": "Niagara Falls, Canada",
+            "lat": 43.0896,
+            "long": -79.0849,
+            "country": "Canada",
+            "city": "Niagara Falls",
+            "countryCode": "CA"
+          },
           "thumbnail": "niagara_falls_thumbnail.jpg",
           "stream_url": "https://videos-3.earthcam.com/fecnetwork/15527.flv/playlist.m3u8?t=rTpEtwAFUW0%2BXz8YVqXGLgc1t%2FIlFVoqI8yJCFh1LQnmdV3bbpjwEflz1t4DQvsr&td=202506150724",
-          "category": "iconic-landmarks"
+          "category": "iconic-landmarks",
+          "views": 32750,
+          "weather": {
+            "temperature": {
+              "current": 19,
+              "high": 24,
+              "low": 13,
+              "unit": "C",
+              "feelsLike": 17,
+              "humidity": 68
+            }
+          }
         },
         {
-          "id": "western-wall-cam",
+          "id": "06-04",
           "name": "Western Wall Cam",
-          "location": "Jerusalem, Israel",
+          "location": {
+            "name": "Jerusalem, Israel",
+            "lat": 31.7767,
+            "long": 35.2345,
+            "country": "Israel",
+            "city": "Jerusalem",
+            "countryCode": "IL"
+          },
           "thumbnail": "western_wall_thumbnail.jpg",
           "stream_url": "https://videos-3.earthcam.com/fecnetwork/7949.flv/playlist.m3u8?t=qJ8klkLQpmFc8tdfbSweV%2FYro5ZzjupmVXt5WSbEaa3AeT7Ht1oy3vcq2EYqdEh5&td=202506150738",
-          "category": "iconic-landmarks"
+          "category": "iconic-landmarks",
+          "views": 18650,
+          "weather": {
+            "temperature": {
+              "current": 28,
+              "high": 32,
+              "low": 22,
+              "unit": "C",
+              "feelsLike": 26,
+              "humidity": 45
+            }
+          }
         },
         {
-          "id": "statue-liberty-crowncam",
+          "id": "06-05",
           "name": "Statue of Liberty CrownCam",
-          "location": "New York City, NY",
+          "location": {
+            "name": "New York City, NY",
+            "lat": 40.6892,
+            "long": -74.0445,
+            "country": "United States",
+            "city": "New York City",
+            "countryCode": "US"
+          },
           "thumbnail": "statue_liberty_thumbnail.jpg",
           "stream_url": "https://videos-3.earthcam.com/fecnetwork/4089.flv/playlist.m3u8?t=E6ER2dlWZPGDTLmnGY7AOX%2BlD3B59fFSUDMddIJG6Ye1Pu4QEB%2FC6gYCOLFmg%2Bau&td=202506150733",
-          "category": "iconic-landmarks"
+          "category": "iconic-landmarks",
+          "views": 41250,
+          "weather": {
+            "temperature": {
+              "current": 69,
+              "high": 75,
+              "low": 62,
+              "unit": "F",
+              "feelsLike": 71,
+              "humidity": 55
+            }
+          }
         },
         {
-          "id": "times-square-street-cam",
+          "id": "06-06",
           "name": "Times Square Street Cam",
-          "location": "New York City, NY",
+          "location": {
+            "name": "New York City, NY",
+            "lat": 40.7580,
+            "long": -73.9855,
+            "country": "United States",
+            "city": "New York City",
+            "countryCode": "US"
+          },
           "thumbnail": "times_square_thumbnail.jpg",
           "stream_url": "https://videos-3.earthcam.com/fecnetwork/9974.flv/playlist.m3u8?t=%2FeC3ZmOA%2BWko%2F9oYTVi%2B2F1FCtCsD6U02gtmGMhDX2pniYdjRpZ7o5RCvNZB24hJ&td=202506150735",
-          "category": "iconic-landmarks"
+          "category": "iconic-landmarks",
+          "views": 52840,
+          "weather": {
+            "temperature": {
+              "current": 69,
+              "high": 75,
+              "low": 62,
+              "unit": "F",
+              "feelsLike": 71,
+              "humidity": 55
+            }
+          }
         }
       ]
     },
@@ -313,52 +925,160 @@
       "title": "Animals & Nature",
       "cameras": [
         {
-          "id": "animal-rescue-cam",
+          "id": "07-01",
           "name": "Animal Rescue Cam",
-          "location": "Oakland, NJ",
+          "location": {
+            "name": "Oakland, NJ",
+            "lat": 41.0290,
+            "long": -74.2371,
+            "country": "United States",
+            "city": "Oakland",
+            "countryCode": "US"
+          },
           "thumbnail": "animal_rescue_thumbnail.jpg",
           "stream_url": "https://videos-3.earthcam.com/fecnetwork/29403.flv/playlist.m3u8?t=xj0ExhidulyoCjJu%2F2xq5qWwnYA%2BnwqxG9t9H%2BKs4HTdJEXFteH58nHI45lkgWin&td=202506150657",
-          "category": "animals-nature"
+          "category": "animals-nature",
+          "views": 14680,
+          "weather": {
+            "temperature": {
+              "current": 68,
+              "high": 74,
+              "low": 61,
+              "unit": "F",
+              "feelsLike": 70,
+              "humidity": 59
+            }
+          }
         },
         {
-          "id": "falcon-cam",
+          "id": "07-02",
           "name": "Falcon Cam",
-          "location": "Franklin County, MO",
+          "location": {
+            "name": "Franklin County, MO",
+            "lat": 38.4385,
+            "long": -91.0154,
+            "country": "United States",
+            "city": "Union",
+            "countryCode": "US"
+          },
           "thumbnail": "falcon_cam_thumbnail.jpg",
           "stream_url": "https://videos-3.earthcam.com/fecnetwork/41395.flv/playlist.m3u8?t=FXuhAqyNA1NkCPaGP%2FmIQBpA%2F9t8Cf5yy8GDKuTDRnZTg4lmef5xOkZfcP534xKN&td=202506150729",
-          "category": "animals-nature"
+          "category": "animals-nature",
+          "views": 9420,
+          "weather": {
+            "temperature": {
+              "current": 76,
+              "high": 82,
+              "low": 69,
+              "unit": "F",
+              "feelsLike": 78,
+              "humidity": 54
+            }
+          }
         },
         {
-          "id": "shark-cam",
+          "id": "07-03",
           "name": "Shark Cam",
-          "location": "Baltimore, MD",
+          "location": {
+            "name": "Baltimore, MD",
+            "lat": 39.2904,
+            "long": -76.6122,
+            "country": "United States",
+            "city": "Baltimore",
+            "countryCode": "US"
+          },
           "thumbnail": "shark_cam_thumbnail.jpg",
           "stream_url": "https://videos-3.earthcam.com/fecnetwork/nabtrcam1.flv/playlist.m3u8?t=YRJU5fPYfajRhUXpAREcHe5mDSD83Jf9VQNw5PYdqfIJAglPIZgbSDFCTslUtLflvoyt6jDz02c%2BmQxylkWPqA%3D%3D&td=202506150732",
-          "category": "animals-nature"
+          "category": "animals-nature",
+          "views": 22830,
+          "weather": {
+            "temperature": {
+              "current": 71,
+              "high": 77,
+              "low": 64,
+              "unit": "F",
+              "feelsLike": 73,
+              "humidity": 63
+            }
+          }
         },
         {
-          "id": "critter-cam",
+          "id": "07-04",
           "name": "Critter Cam",
-          "location": "Webster, NY",
+          "location": {
+            "name": "Webster, NY",
+            "lat": 43.2120,
+            "long": -77.4303,
+            "country": "United States",
+            "city": "Webster",
+            "countryCode": "US"
+          },
           "thumbnail": "critter_cam_thumbnail.jpg",
           "stream_url": "https://videos-3.earthcam.com/fecnetwork/27779.flv/playlist.m3u8?t=sh5Bd%2FKx8CMTJ9FpKCU0P7MngPctDEDOHCTHc8mupCCDop1Q3EGN0Qmpbi9ypfmk&td=202506150709",
-          "category": "animals-nature"
+          "category": "animals-nature",
+          "views": 7650,
+          "weather": {
+            "temperature": {
+              "current": 67,
+              "high": 73,
+              "low": 60,
+              "unit": "F",
+              "feelsLike": 69,
+              "humidity": 61
+            }
+          }
         },
         {
-          "id": "michigan-snowman-cam",
+          "id": "07-05",
           "name": "Michigan Snowman Cam",
-          "location": "Gaylord, MI",
+          "location": {
+            "name": "Gaylord, MI",
+            "lat": 45.0277,
+            "long": -84.6747,
+            "country": "United States",
+            "city": "Gaylord",
+            "countryCode": "US"
+          },
           "thumbnail": "michigan_snowman_thumbnail.jpg",
           "stream_url": "https://videos-3.earthcam.com/fecnetwork/13706.flv/playlist.m3u8?t=z6nB2mvB7fVRwGP9d5q8HkQOt517mPZeS8kGxr9WE4z6G6TLitLYUlKkDKK7Z1wK&td=202506150728",
-          "category": "animals-nature"
+          "category": "animals-nature",
+          "views": 5280,
+          "weather": {
+            "temperature": {
+              "current": 62,
+              "high": 68,
+              "low": 54,
+              "unit": "F",
+              "feelsLike": 64,
+              "humidity": 67
+            }
+          }
         },
         {
-          "id": "bali-elephant-cam",
+          "id": "07-06",
           "name": "Bali Elephant Cam Trail Path",
-          "location": "Bali, Indonesia",
+          "location": {
+            "name": "Bali, Indonesia",
+            "lat": -8.4095,
+            "long": 115.1889,
+            "country": "Indonesia",
+            "city": "Denpasar",
+            "countryCode": "ID"
+          },
           "thumbnail": "bali_elephant_thumbnail.jpg",
           "stream_url": "https://videos-3.earthcam.com/fecnetwork/4337.flv/playlist.m3u8?t=2M6rQ%2BzlqRwEJf47zdLJ80g%2FPMnP7VQDpvD50v%2BP1LQocHMvaiNaBgTkwSjWZOgg&td=202506150727",
-          "category": "animals-nature"
+          "category": "animals-nature",
+          "views": 17940,
+          "weather": {
+            "temperature": {
+              "current": 28,
+              "high": 31,
+              "low": 25,
+              "unit": "C",
+              "feelsLike": 32,
+              "humidity": 81
+            }
+          }
         }
       ]
     }
